@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "object": "network-obj",
+      "name": "IP_OBJECT_1",
+      "ipv4": "146.190.52.163",
+      "comments": "Checkpoint1"
+    },
+    {
+      "object": "network-obj",
+      "name": "IP_OBJECT_2",
+      "ipv4": "104.128.233.60",
+      "comments": "Checkpoint2"
+    },
+    {
+      "object": "network-obj",
+      "name": "IP_OBJECT_3",
+      "ipv4": "109.205.61.168",
+      "comments": "Checkpoint3"
+    }
+  ]
+}
